@@ -2,11 +2,18 @@
 id: rbacjgokg1bdsy0gyrr64s4
 title: Modeling
 desc: ''
-updated: 1647130496212
+updated: 1656426417759
 created: 1647126945940
 ---
 
 # What is a Model?
+
+A model is a description of possible states of a world. It describes the shape, but not a particular instance. The shape includes the things of interest, and their relations to each other, but not what they are.
+
+A simple example of a model is something you would have learned in grade school. When you learned how to count, you learned the model which maps numbers to things in the world. The same series of numbers, the natural numbers, could be applied to apples, or blocks or friends.
+
+n = f(items)
+where f is a function that maps items to numbers.
 
 ## How is it different than a program?
 
