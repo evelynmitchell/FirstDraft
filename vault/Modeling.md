@@ -2,7 +2,7 @@
 id: rbacjgokg1bdsy0gyrr64s4
 title: Modeling
 desc: ''
-updated: 1656426417759
+updated: 1656426544806
 created: 1647126945940
 ---
 
@@ -14,6 +14,14 @@ A simple example of a model is something you would have learned in grade school.
 
 n = f(items)
 where f is a function that maps items to numbers.
+
+Other simple examples of models are:
+
+- There or not there. Existence.
+- Same or different. Is thing now the same as thing before?
+
+How are models different than properties?
+
 
 ## How is it different than a program?
 
